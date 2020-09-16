@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798790805015",
+    "firebase_url": "https://bhartiyarail-a953b.firebaseio.com",
+    "project_id": "bhartiyarail-a953b",
+    "storage_bucket": "bhartiyarail-a953b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798790805015:android:14c02390de1d403c571e52",
+        "android_client_info": {
+          "package_name": "com.example.bhartiyarail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798790805015-94bsv6p53bhgiaiusus2vdmqlo3fmct9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhartiyarail",
+            "certificate_hash": "a367477643b72b5251688da0fa01a80e31de44ae"
+          }
+        },
+        {
+          "client_id": "798790805015-5l4eqr5j33lv239pdhk7fg5qr67go47f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAePhfKnC1V-qKqZ8jR4lkDBITeNA_RykQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798790805015-5l4eqr5j33lv239pdhk7fg5qr67go47f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
